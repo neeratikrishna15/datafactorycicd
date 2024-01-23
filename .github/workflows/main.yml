@@ -1,4 +1,5 @@
       name: data-factory-deploy
+      on: push
       uses: Azure/data-factory-deploy-action@v1.2.0
       with:
         # Data Factory resource group name
