@@ -1,6 +1,6 @@
-  - name: data-factory-deploy
-  uses: Azure/data-factory-deploy-action@v1.2.0
-  with:
+  name: data-factory-deploy
+   uses: Azure/data-factory-deploy-action@v1.2.0
+   with:
     # Data Factory resource group name
     resourceGroupName: "example-resources"
     # Data factory name
