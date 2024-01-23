@@ -1,0 +1,9 @@
+{
+	"name": "ngkadfpocpersonal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28d4d122-c4d6-4362-b2d4-906247ec4bfc",
+		"tenantId": "ec25f121-f9c4-4650-a39c-47cd1939fe8b"
+	}
+}

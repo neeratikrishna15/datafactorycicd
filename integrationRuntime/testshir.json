@@ -1,0 +1,6 @@
+{
+	"name": "testshir",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
